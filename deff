@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pendo Test</title>
+  </head>
+  <body>
+    <div id="navbar">
+      <button class="sign-in">Sign In</button>
+      <button class="help">Help</button>
+    </div>
+  </body>
+</html>
